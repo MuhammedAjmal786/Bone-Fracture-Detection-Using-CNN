@@ -206,6 +206,9 @@ ________________________________________
      streamlit run app.py
      ```
 ________________________________________
+## Take a peek at what I’ve created! 👀
+Streamlit App: https://bone-fracture-detection-using-cnn-537k6mbarrudny3usqfkbj.streamlit.app
+________________________________________
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
 
